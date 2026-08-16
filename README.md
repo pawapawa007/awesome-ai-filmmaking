@@ -143,6 +143,7 @@
 | Wondershare Filmora | AI-powered consumer video editor | Freemium | [Site](https://filmora.wondershare.com/) |
 | InVideo AI | AI video creation from text | Freemium | [Site](https://invideo.io/) |
 | Pictory | AI video from long form content | Freemium | [Site](https://pictory.ai/) |
+| videos.social | Editable faceless video from blogs and PDFs | Freemium | [Site](https://videos.social/?utm_source=pawapawa007-awesome-ai-filmmaking&utm_medium=directory&utm_campaign=listing-wave-d) |
 
 ---
 
