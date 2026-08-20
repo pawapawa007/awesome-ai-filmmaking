@@ -38,6 +38,7 @@
 | Tool | Description | Pricing | Link |
 |------|-------------|---------|------|
 | Runway Gen-4.5 | Latest Runway model — best creative control | Freemium | [Site](https://runwayml.com/) |
+| SEELE TV | Cinematic video with shot-level camera control | Paid | [Site](https://seele.tv/) |
 | Sora 2 (OpenAI) | Physics-realistic video generation | Paid | [Site](https://openai.com/sora) |
 | Veo 3.1 (Google) | Cinematic quality with native audio generation | Freemium | [Site](https://deepmind.google/technologies/veo/) |
 | Kling AI 3.0 | Best value — photorealistic humans in 4K | Freemium | [Site](https://klingai.com/) |
