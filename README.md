@@ -143,6 +143,7 @@
 | Wondershare Filmora | AI-powered consumer video editor | Freemium | [Site](https://filmora.wondershare.com/) |
 | InVideo AI | AI video creation from text | Freemium | [Site](https://invideo.io/) |
 | Pictory | AI video from long form content | Freemium | [Site](https://pictory.ai/) |
+| OrkasVideoStudio | Local-first CLI/MCP for agent-driven video editing with plan.json timelines | Free | [Repo](https://github.com/Orkas-AI/Orkas-VideoStudio) |
 
 ---
 
