@@ -137,6 +137,7 @@
 | Captions | AI video editing and auto-captions | Freemium | [Site](https://www.captions.ai/) |
 | Opus Clip | AI short clip generation from long videos | Freemium | [Site](https://www.opus.pro/) |
 | CapCut | AI video editing for social media | Freemium | [Site](https://www.capcut.com/) |
+| ReelWorkshop | Browser compilation maker: import/arrange/trim/preview; export vertical 9:16 H.264 for TikTok/Reels/Shorts. Edit free; export Starter | Freemium | [Site](https://reelworkshop.com/) |
 | Runway | AI video editing and effects | Freemium | [Site](https://runwayml.com/) |
 | Adobe Premiere AI | Sensei AI features in Premiere Pro | Paid | [Site](https://www.adobe.com/products/premiere.html) |
 | DaVinci Resolve AI | AI tools in free DaVinci Resolve | Freemium | [Site](https://www.blackmagicdesign.com/products/davinciresolve) |
