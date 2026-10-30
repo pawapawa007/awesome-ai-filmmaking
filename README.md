@@ -213,6 +213,7 @@
 | Maestra | AI transcription and subtitle generation | Freemium | [Site](https://maestra.ai/) |
 | Rask AI | AI video localization and dubbing | Freemium | [Site](https://www.rask.ai/) |
 | Deepl | Best AI translation tool | Freemium | [Site](https://www.deepl.com/) |
+| Karaoke Captions | On-device word-by-word captions; MP4, SRT and VTT export | Freemium | [Site](https://karaokecaptions.com/) |
 
 ---
 
